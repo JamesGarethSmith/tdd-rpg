@@ -1,0 +1,12 @@
+const chalk = require("chalk")
+const characters = require("./src/characters.json")
+const combat = require("./src/combat")
+const battle = require("./src/battle")
+const render = require("./src/render")
+
+console.log(chalk.bold.underline("Auta i lómë! Utúlie’n aurë!\n"))
+console.log(characters.map(character => character.name).join("\n"))
+const session = battle(characters, combat)
+session.fights.map(render).forEach(fight => console.log(fight))
+console.log(chalk.italic("there can only be one..."))
+console.log(chalk.green(session.victor))

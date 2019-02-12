@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Beren Camlost",
+    "health": 100,
+    "weapon": {
+      "name": "Angrist",
+      "damage": 10
+    }
+  },
+  {
+    "name": "Morgoth Bauglir",
+    "health": 100,
+    "weapon": {
+      "name": "Grond, hammer of the underworld",
+      "damage": 10
+    }
+  },
+  {
+    "name": "Túrin Turambar",
+    "health": 100,
+    "weapon": {
+      "name": "Gurthang",
+      "damage": 10
+    }
+  },
+  {
+    "name": "Beleg Cúthalion",
+    "health": 100,
+    "weapon": {
+      "name": "Belthronding",
+      "damage": 10
+    }
+  },
+  {
+    "name": "Glaurang",
+    "health": 100,
+    "weapon": {
+      "name": "Baleful eyes",
+      "damage": 10
+    }
+  },
+  {
+    "name": "Glorfindel",
+    "health": 100,
+    "weapon": {
+      "name": "Thorondún",
+      "damage": 10
+    }
+  }
+]
