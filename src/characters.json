@@ -9,10 +9,10 @@
   },
   {
     "name": "Morgoth Bauglir",
-    "health": 100,
+    "health": 1000,
     "weapon": {
       "name": "Grond, hammer of the underworld",
-      "damage": 10
+      "damage": 100
     }
   },
   {
@@ -20,20 +20,20 @@
     "health": 100,
     "weapon": {
       "name": "Gurthang",
-      "damage": 10
+      "damage": 50
     }
   },
   {
     "name": "Beleg Cúthalion",
-    "health": 100,
+    "health": 150,
     "weapon": {
       "name": "Belthronding",
-      "damage": 10
+      "damage": 18
     }
   },
   {
     "name": "Glaurung",
-    "health": 100,
+    "health": 400,
     "weapon": {
       "name": "Baleful eyes",
       "damage": 10
@@ -41,10 +41,10 @@
   },
   {
     "name": "Glorfindel",
-    "health": 100,
+    "health": 200,
     "weapon": {
       "name": "Thorondún",
-      "damage": 10
+      "damage": 50
     }
   }
 ]
